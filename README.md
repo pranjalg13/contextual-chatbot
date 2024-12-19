@@ -55,6 +55,4 @@ MIT
 
 ### Mentions
 
-<img src="https://pbs.twimg.com/profile_images/1239848399769202689/5S6D0btQ.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="100" />
-
 ***We would Like to thank [CRIO.DO](https://www.crio.do/) team and all members for organizing such an event which helps students in improving their development skills. The Winter of Doing provided a hands-on approach on things. We would also like to thank the members on slack, who helped us with our queries. We enjoyed making this Project and hope you too have enjoyed yours as well. Thank You and Have a Nice Day.🎇***
