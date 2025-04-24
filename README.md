@@ -52,7 +52,3 @@ License
 MIT
 
 **You can modilfy it or break it, do whatever you need**
-
-### Mentions
-
-***We would Like to thank [CRIO.DO](https://www.crio.do/) team and all members for organizing such an event which helps students in improving their development skills. The Winter of Doing provided a hands-on approach on things. We would also like to thank the members on slack, who helped us with our queries. We enjoyed making this Project and hope you too have enjoyed yours as well. Thank You and Have a Nice Day.🎇***
